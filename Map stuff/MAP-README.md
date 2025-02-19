@@ -5,6 +5,6 @@
 2 - Red - Doors
 3 - Green - Stairs up
 4 - Blue - Stairs down
-5 - Purple - Chests 
+5 - Purple - Chests
 
-Tile size tem que ser 3px X 3px durante a driação de mapas
+Tile size tem que ser 3px X 3px durante a criação de mapas
