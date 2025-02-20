@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Map-1.tmx",
+    "activeFile": "Map-third-dungeon-floor.tmx",
     "expandedProjectPaths": [
         "."
     ],
@@ -17,12 +17,44 @@
                 "y": 60.057293714542496
             }
         },
+        "Map-first-dungeon-floor.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 108.90909090909092,
+                "y": 93.54545454545455
+            }
+        },
+        "Map-school.tmx": {
+            "scale": 7.417916666666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 59.9898893444925,
+                "y": 60.057293714542496
+            }
+        },
+        "Map-second-dungeon-floor.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 110.54545454545453,
+                "y": 82.27272727272728
+            }
+        },
+        "Map-third-dungeon-floor.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 41.454545454545446,
+                "y": 47.9090909090909
+            }
+        },
         "Test-map.tmx": {
             "scale": 16,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 39.9375,
-                "y": 40.71875
+                "x": 45,
+                "y": 29.96875
             }
         },
         "map-code-sprite-sheet.tsx": {
@@ -44,11 +76,18 @@
     "map.width": 40,
     "openFiles": [
         "Test-map.tmx",
-        "Map-1.tmx"
+        "Map-school.tmx",
+        "Map-first-dungeon-floor.tmx",
+        "Map-second-dungeon-floor.tmx",
+        "Map-third-dungeon-floor.tmx"
     ],
     "project": "map-system.tiled-project",
     "recentFiles": [
         "Test-map.tmx",
+        "Map-school.tmx",
+        "Map-first-dungeon-floor.tmx",
+        "Map-second-dungeon-floor.tmx",
+        "Map-third-dungeon-floor.tmx",
         "Map-1.tmx",
         "map-code-sprite-sheet.tsx",
         "map-tileset.tsx"
