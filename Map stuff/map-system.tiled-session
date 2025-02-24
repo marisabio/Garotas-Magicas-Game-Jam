@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Map-third-dungeon-floor.tmx",
+    "activeFile": "Map-school.tmx",
     "expandedProjectPaths": [
         "."
     ],
@@ -84,10 +84,10 @@
     "project": "map-system.tiled-project",
     "recentFiles": [
         "Test-map.tmx",
-        "Map-school.tmx",
-        "Map-first-dungeon-floor.tmx",
-        "Map-second-dungeon-floor.tmx",
         "Map-third-dungeon-floor.tmx",
+        "Map-second-dungeon-floor.tmx",
+        "Map-first-dungeon-floor.tmx",
+        "Map-school.tmx",
         "Map-1.tmx",
         "map-code-sprite-sheet.tsx",
         "map-tileset.tsx"
